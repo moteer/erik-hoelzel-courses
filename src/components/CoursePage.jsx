@@ -81,7 +81,7 @@ const CoursePage = () => {
         <div className="max-w-4xl mx-auto px-4">
           <div className="flex items-center gap-8 mb-8">
             <img 
-              src="/api/placeholder/300/300" 
+              src="assets/erik.jpg" 
               alt="Erik Hölzel" 
               className="rounded-full w-32 h-32 object-cover border-4 border-white shadow-lg"
             />
